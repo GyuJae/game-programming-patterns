@@ -17,10 +17,20 @@
     <ClCompile Include="Command.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="flyweight.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="observer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Command.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="flyweight.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="observer.h" />
   </ItemGroup>
 </Project>
